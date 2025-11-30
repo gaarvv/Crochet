@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './Navbar.css'
-import logo from '../Assets/crochet.designer.png'
+import logo from '../Assets/footer_logo.png'
 import cart_icon from '../Assets/cart_icon.png'
 import { Link } from 'react-router-dom'
 

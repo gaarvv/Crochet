@@ -8,8 +8,8 @@
     margin-bottom: -20px;
 }
 .navLogo{
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 300px;
 }
 .nav-menu{
     display: flex;
@@ -27,7 +27,6 @@
     justify-content: center;
     flex-direction: column;
     gap: 3px;
-    color: #d4a373;
     cursor: pointer;
 }
 .nav-menu hr{
